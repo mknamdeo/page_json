@@ -1,0 +1,4 @@
+name: Page Json
+type: module
+description: 'Generate json output for nodes of page content type.'
+core: 8.x
